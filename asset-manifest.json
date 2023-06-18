@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/harsha-0110/React-Task-2/static/css/main.17b2eb57.css",
-    "main.js": "/harsha-0110/React-Task-2/static/js/main.286a1262.js",
-    "static/js/787.0c3f432a.chunk.js": "/harsha-0110/React-Task-2/static/js/787.0c3f432a.chunk.js",
-    "index.html": "/harsha-0110/React-Task-2/index.html",
-    "main.17b2eb57.css.map": "/harsha-0110/React-Task-2/static/css/main.17b2eb57.css.map",
-    "main.286a1262.js.map": "/harsha-0110/React-Task-2/static/js/main.286a1262.js.map",
-    "787.0c3f432a.chunk.js.map": "/harsha-0110/React-Task-2/static/js/787.0c3f432a.chunk.js.map"
+    "main.css": "/React-Task-2/static/css/main.17b2eb57.css",
+    "main.js": "/React-Task-2/static/js/main.8de315c6.js",
+    "static/js/787.0c3f432a.chunk.js": "/React-Task-2/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/React-Task-2/index.html",
+    "main.17b2eb57.css.map": "/React-Task-2/static/css/main.17b2eb57.css.map",
+    "main.8de315c6.js.map": "/React-Task-2/static/js/main.8de315c6.js.map",
+    "787.0c3f432a.chunk.js.map": "/React-Task-2/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17b2eb57.css",
-    "static/js/main.286a1262.js"
+    "static/js/main.8de315c6.js"
   ]
 }
