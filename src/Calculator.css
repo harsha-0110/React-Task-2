@@ -1,0 +1,39 @@
+.calculator{
+  width: 300px;
+  border-radius: 10px;
+  height: max-content;
+  background-color: #172d67;
+}
+.keypad{
+  background-color: #0b0926;
+  border-radius: 0px 0px 10px 10px;
+  overflow: hidden;
+}
+button{
+  width: 75px;
+  height: 75px;
+  border: none;
+  font-size: large;
+  background-color: #0b0926;
+  color: white;
+}
+input{
+  text-align: right;
+  border: none;
+  background-color: #172d67;
+  color: white;
+  width: 90%;
+  margin-bottom: 100px;
+  font-size: large;
+}
+
+textarea{
+  text-align: right;
+  resize: none;
+  border: none;
+  background-color: #172d67;
+  color: white;
+  width: 90%;
+  margin-top: 20px;
+  font-size: large;
+}
